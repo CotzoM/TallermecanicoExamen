@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5jyoiePSdToWHoQbeUxDcahXXDD+PsVh++SCxvTXiSw=",
+  "Source": "TallerMecanicoApi",
+  "BasePath": "_content/TallerMecanicoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.ClienteController",
+    "Method": "Get",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.FacturaController",
+    "Method": "Get",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.MecanicoController",
+    "Method": "Get",
+    "RelativePath": "api/Mecanico",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.RepuestoController",
+    "Method": "Get",
+    "RelativePath": "api/Repuesto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.ServicioController",
+    "Method": "Get",
+    "RelativePath": "api/Servicio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.TallerController",
+    "Method": "Get",
+    "RelativePath": "api/Taller",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.TurnoController",
+    "Method": "Get",
+    "RelativePath": "api/Turno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TallerMecanicoAPI.Controllers.VehiculoController",
+    "Method": "Get",
+    "RelativePath": "api/Vehiculo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
